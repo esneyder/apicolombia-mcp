@@ -2,6 +2,17 @@
 
 A Model Context Protocol (MCP) server that provides information about Colombia through the API Colombia service.
 
+## 📊 Data Source
+
+This project uses the **API Colombia** service for educational and practical purposes. The API provides comprehensive information about Colombia including departments, regions, cities, and general country data.
+
+- **API URL**: https://api-colombia.com/
+- **Documentation**: https://api-colombia.com/#informacionAPIS
+- **Purpose**: Educational and practical implementation of MCP server
+- **Data Coverage**: Departments, regions, cities, tourist attractions, and general country information
+
+> **Note**: This implementation is for educational and practical purposes only. The API Colombia service is a public, open-source project that provides free access to Colombian data.
+
 ## 🏗️ Architecture Overview
 
 This project follows **Clean Architecture** principles with a modular, scalable structure designed for maintainability and extensibility.
